@@ -1,0 +1,512 @@
+Sage's Stone 
+15AX-JPM41 
+1 
+SCR
+Elemental HERO Neos Knight
+20TH-JPC77
+1 
+P + SR
+Gravekeeper's Watcher 
+301-012 
+1 
+R
+The Sanctuary in the Sky
+308-042
+1
+R
+Fire Recovery
+AGOV-JP059
+1
+R
+Scramble Egg
+AT09-JP003
+1
+P
+Clear New World
+BACH-JP062
+1
+R
+Fabled Andwraith
+BLVO-JP044
+1
+SR
+Borreload Riot Dragon
+BODE-JP036
+1
+SR
+Zoroa, the Magistus Conflagrant Calamity
+BODE-JP045
+1
+SR
+Garbage Lord
+CBLZ-JP019
+1
+R
+Combo Master
+CDIP-JP029
+1
+R
+Marincess Wonder Heart
+CHIM-JP041
+1
+R
+Unchained Soul of Rage
+CHIM-JP043
+1
+R
+Abomination's Prison
+CHIM-JP054
+1
+R
+Raidraptor - Fuzzy Lanius
+CORE-JP013
+1
+R
+Extra Buck
+CORE-JP079
+1
+R
+Mirror Force Dragon
+CPD1-JP005
+1
+R
+Lifeforce Harmonizer
+CRMS-JP026
+1
+R
+Bloom Diva the Melodious Choir
+CROS-JP040
+2
+R
+Frightfur Fusion
+CROS-JP056
+1
+R
+Dark Catapulter
+CRV-JP013
+2
+R
+Prediction Princess Tarotreith
+DABL-JP038
+3
+SR
+Kashtira Shangri-Ira
+DABL-JP045
+1
+R
+Wollow, Founder of the Drudge Dragons
+DABL-JP047
+1
+R
+Donner, Dagger Fur Hire
+DABL-JP049
+1
+R
+Ninjitsu Art of Dancing Leaves
+DABL-JP077
+1
+R
+Night's End Sorcerer
+DBHS-JP040
+1
+P
+Phoenix Wing Wind Blast
+DBHS-JP045
+1
+P
+Turret Warrior
+DP09-JP003
+1
+R
+Heroic Champion - Excalibur
+DP14-JP021
+1
+SR
+Dark Sanctuary
+DP17-JP010
+1
+R
+Speedroid Ultra Hound
+DP25-JP002
+1
+R
+Necro Synchron
+DP25-JP022
+1
+SR
+Pennant of Revolution
+DP25-JP026
+1
+R
+Lyrilusc - Bird Sanctuary
+DP25-JP039
+1
+R
+Geargiarmor
+DS14-JPM05
+1
+UR
+Medium of the Ice Barrier
+DT03-JP018
+1
+HFR
+Jurrac Protops
+DT04-JP015
+1
+P
+Worm Tentacles
+DT05-JP030
+1
+HFR
+Sacred Spirit of the Ice Barrier
+DT07-JP034
+1
+HFR
+Kayenn, the Master Magma Blacksmith
+DT09-JP027
+1
+HFR
+Steelswarm Moth
+DT10-JP031
+1
+HFR
+Thestalos the Shadowfire Monarch
+DUNE-JP023
+1
+SR
+Unchained Soul Lord of Yama
+DUNE-JP049
+1
+SR
+Chiron the Mage
+EE3-JP141
+1
+R
+Majestic Mech - Ohka
+EOJ-JP015
+1
+R
+Kozmo Farmgirl
+EP16-JP001
+1
+UR
+Kozmo Sliprider
+EP16-JP003
+1
+SR
+Kozmo Dark Destroyer
+EP16-JP008
+1
+SR
+Kozmo Tincan
+EP16-JP009
+1
+SR
+Kozmoll Dark Lady
+EP16-JP014
+2
+R
+Paleozoic Opabinia
+EP16-JP042
+1
+R
+Painful Escape
+EP16-JP049
+1
+R
+Vendread Battlelord
+EP18-JP004
+1
+SR
+Madolche Salon
+ETCO-JP064
+1
+R
+T.G. Rush Rhino
+EXVC-JP021
+1
+R
+Big-Tusked Mammoth
+FET-JP015
+1
+R
+Wind-Up Zenmaintenance
+FLOD-JP049
+1
+R
+Raiza the Storm Monarch
+GDB1-JP008
+1
+GR
+Spirit Reaper
+GDB1-JP024
+1
+GR
+Creature Swap
+GDB1-JP072
+1
+GR
+Tiras, Keeper of Genesis
+GENF-JP044
+1
+UR
+Goblin Black Ops
+GLAS-JP030
+2
+R
+Number 101 - Silent Honor ARK
+GP16-JP015
+1
+GR
+Watapon
+GS01-JP001
+1
+GR
+Jinzo
+GS01-JP004
+1
+GR
+Bottomless Trap Hole
+GS01-JP019
+1
+GR
+Judgment Dragon
+GS02-JP009
+2
+GR
+Mask of Darkness
+GS03-JP001
+1
+GR
+Injection Fairy Lily
+GS03-JP003
+1
+GR
+Ryko, Lightsworn Hunter
+GS03-JP007
+1
+GR
+Gungnir, Dragon of the Ice Barrier
+GS03-JP009
+1
+GR
+Nobleman of Crossout
+GS03-JP011
+1
+GR
+Fires of Doomsday
+GS03-JP015
+2
+GR
+Widespread Ruin
+GS03-JP020
+1
+GR
+Enemy Controller
+GS04-JP014
+1
+GR
+Granmarg the Rock Monarch
+GS05-JP005
+1
+GR
+Magical Dimension
+GS05-JP015
+2
+GR	
+Blue-Eyes Alternative White Dragon
+HC01-JP008
+1
+P
+Firewall Dragon Darkfluid - Neo Tempest Terahertz
+HC01-JP044
+1
+SR
+Angel of Blue Tears
+HC01-JP045
+1
+SR
+Ancient Warriors - Valiant Zhang De
+IGAS-JP013
+1
+R
+Abominable Unchained Soul
+IGAS-JP019
+1
+SR
+Poly-Chemicritter Dioxogre
+INOV-JP026
+1
+R
+Swordsman of Landstar
+JY-02
+1
+SR
+Roxrose Dragon
+LIOV-JP009
+2
+R
+Amazing Time Ticket
+LIOV-JP056
+1
+R
+A.I. Meet You
+LIOV-JP060
+1
+R
+Batteryman Micro-Cell
+LODT-JP032
+1
+R
+Goblin Recon Squad
+LODT-JP033
+1
+R
+Abyss Actor - Wild Hope
+LVP3-JP078
+1
+R
+Cubic Rebirth
+MVP1-JP043
+1
+KC + UR
+Dark Magician
+P4-02
+1
+UR
+Majespecter Draco - Ryu
+PHNI-JP049
+1
+SCR
+Raidraptor - Strangle Lanius
+PHRA-JP005
+1
+R
+Vendread Scavenger
+POTE-JP040
+1
+SR
+Gem-Knight Lady Rose Diamond
+POTE-JP044
+2
+SR
+Ma'at
+PP14-JP004
+1
+SR
+Elemental HERO Storm Neos
+PTDN-JP043
+1
+UR
+The Melody of Awakening Dragon
+RC03-JP036
+1
+SR
+Time Thief Redoer
+RC04-JP042
+1
+QCSR
+Fossil Dig
+RC04-JP054
+1
+SR
+Dark Verger
+RGBT-JP004
+1
+R
+Magic Planter
+RGBT-JP048
+1
+R
+T.G. Screw Serpent
+SAST-JP009
+1
+R
+Orcust Knightmare
+SAST-JP021
+1
+R
+Machina Fortress
+SD18-JP001
+1
+UR	
+Berserkion the Electromagna Warrior
+SDMY-JP004
+1
+UR
+Mausoleum of White
+SHVI-JP059
+1
+R
+The Book of the Law
+SLF1-JP033
+1
+SR
+Sunvine Maiden
+SLT1-JP028
+1
+R
+XX-Saber Boggart Knight
+SPRG-JP020
+1
+P
+Super Quantal Mech Sword - Magnaslayer
+SPWR-JP039
+1
+P
+Dragon Ravine
+SR02-JP025
+2
+P
+Fiendish Chain
+SR03-JP036
+1
+P
+Machina Irradiator
+SR10-JP003
+1
+P
+Odd-Eyes Pendulum Dragon
+ST16-JP008
+1
+P	
+Tokkosho of Ghost Destroying
+STBL-JP060
+1
+R
+Rokket Tracer
+SUB1-JP024
+1
+SCR
+Blackwing Full Armor Master
+SUB1-JP056
+2
+SR
+Mirror Gate
+TAEV-JP063
+1
+UR
+Performapal Bot-Eyes Lizard
+TDIL-JP001
+1
+R
+Red Mirror
+TDIL-JP016
+1
+R
+Scapeghost
+TDIL-JP033
+1
+R
+Black Dragon Ninja
+TDIL-JP036
+1
+R
+Bahamut Shark
+VJMP-JP073
+1
+UR
+Duza the Meteor Cubic Vessel
+WJMP-JP026
+1
+KC

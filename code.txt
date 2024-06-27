@@ -1,0 +1,768 @@
+<tr>
+<td>15AX-JPM41 </td>
+<td>Sage's Stone </td>
+<td>SCR</td>
+<td>1 </td>
+</tr>
+<tr>
+<td>20TH-JPC77</td>
+<td>Elemental HERO Neos Knight</td>
+<td>P + SR</td>
+<td>1 </td>
+</tr>
+<tr>
+<td>301-012 </td>
+<td>Gravekeeper's Watcher </td>
+<td>R</td>
+<td>1 </td>
+</tr>
+<tr>
+<td>308-042</td>
+<td>The Sanctuary in the Sky</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>AGOV-JP059</td>
+<td>Fire Recovery</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>AT09-JP003</td>
+<td>Scramble Egg</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>BACH-JP062</td>
+<td>Clear New World</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>BLVO-JP044</td>
+<td>Fabled Andwraith</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>BODE-JP036</td>
+<td>Borreload Riot Dragon</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>BODE-JP045</td>
+<td>Zoroa, the Magistus Conflagrant Calamity</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CBLZ-JP019</td>
+<td>Garbage Lord</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CDIP-JP029</td>
+<td>Combo Master</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CHIM-JP041</td>
+<td>Marincess Wonder Heart</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CHIM-JP043</td>
+<td>Unchained Soul of Rage</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CHIM-JP054</td>
+<td>Abomination's Prison</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CORE-JP013</td>
+<td>Raidraptor - Fuzzy Lanius</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CORE-JP079</td>
+<td>Extra Buck</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CPD1-JP005</td>
+<td>Mirror Force Dragon</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CRMS-JP026</td>
+<td>Lifeforce Harmonizer</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CROS-JP040</td>
+<td>Bloom Diva the Melodious Choir</td>
+<td>R</td>
+<td>2</td>
+</tr>
+<tr>
+<td>CROS-JP056</td>
+<td>Frightfur Fusion</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>CRV-JP013</td>
+<td>Dark Catapulter</td>
+<td>R</td>
+<td>2</td>
+</tr>
+<tr>
+<td>DABL-JP038</td>
+<td>Prediction Princess Tarotreith</td>
+<td>SR</td>
+<td>3</td>
+</tr>
+<tr>
+<td>DABL-JP045</td>
+<td>Kashtira Shangri-Ira</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DABL-JP047</td>
+<td>Wollow, Founder of the Drudge Dragons</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DABL-JP049</td>
+<td>Donner, Dagger Fur Hire</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DABL-JP077</td>
+<td>Ninjitsu Art of Dancing Leaves</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DBHS-JP040</td>
+<td>Night's End Sorcerer</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DBHS-JP045</td>
+<td>Phoenix Wing Wind Blast</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP09-JP003</td>
+<td>Turret Warrior</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP14-JP021</td>
+<td>Heroic Champion - Excalibur</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP17-JP010</td>
+<td>Dark Sanctuary</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP25-JP002</td>
+<td>Speedroid Ultra Hound</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP25-JP022</td>
+<td>Necro Synchron</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP25-JP026</td>
+<td>Pennant of Revolution</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DP25-JP039</td>
+<td>Lyrilusc - Bird Sanctuary</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DS14-JPM05</td>
+<td>Geargiarmor</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DT03-JP018</td>
+<td>Medium of the Ice Barrier</td>
+<td>HFR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DT04-JP015</td>
+<td>Jurrac Protops</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DT05-JP030</td>
+<td>Worm Tentacles</td>
+<td>HFR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DT07-JP034</td>
+<td>Sacred Spirit of the Ice Barrier</td>
+<td>HFR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DT09-JP027</td>
+<td>Kayenn, the Master Magma Blacksmith</td>
+<td>HFR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DT10-JP031</td>
+<td>Steelswarm Moth</td>
+<td>HFR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DUNE-JP023</td>
+<td>Thestalos the Shadowfire Monarch</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>DUNE-JP049</td>
+<td>Unchained Soul Lord of Yama</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EE3-JP141</td>
+<td>Chiron the Mage</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EOJ-JP015</td>
+<td>Majestic Mech - Ohka</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP16-JP001</td>
+<td>Kozmo Farmgirl</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP16-JP003</td>
+<td>Kozmo Sliprider</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP16-JP008</td>
+<td>Kozmo Dark Destroyer</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP16-JP009</td>
+<td>Kozmo Tincan</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP16-JP014</td>
+<td>Kozmoll Dark Lady</td>
+<td>R</td>
+<td>2</td>
+</tr>
+<tr>
+<td>EP16-JP042</td>
+<td>Paleozoic Opabinia</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP16-JP049</td>
+<td>Painful Escape</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EP18-JP004</td>
+<td>Vendread Battlelord</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ETCO-JP064</td>
+<td>Madolche Salon</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>EXVC-JP021</td>
+<td>T.G. Rush Rhino</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>FET-JP015</td>
+<td>Big-Tusked Mammoth</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>FLOD-JP049</td>
+<td>Wind-Up Zenmaintenance</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GDB1-JP008</td>
+<td>Raiza the Storm Monarch</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GDB1-JP024</td>
+<td>Spirit Reaper</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GDB1-JP072</td>
+<td>Creature Swap</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GENF-JP044</td>
+<td>Tiras, Keeper of Genesis</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GLAS-JP030</td>
+<td>Goblin Black Ops</td>
+<td>R</td>
+<td>2</td>
+</tr>
+<tr>
+<td>GP16-JP015</td>
+<td>Number 101 - Silent Honor ARK</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS01-JP001</td>
+<td>Watapon</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS01-JP004</td>
+<td>Jinzo</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS01-JP019</td>
+<td>Bottomless Trap Hole</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS02-JP009</td>
+<td>Judgment Dragon</td>
+<td>GR</td>
+<td>2</td>
+</tr>
+<tr>
+<td>GS03-JP001</td>
+<td>Mask of Darkness</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS03-JP003</td>
+<td>Injection Fairy Lily</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS03-JP007</td>
+<td>Ryko, Lightsworn Hunter</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS03-JP009</td>
+<td>Gungnir, Dragon of the Ice Barrier</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS03-JP011</td>
+<td>Nobleman of Crossout</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS03-JP015</td>
+<td>Fires of Doomsday</td>
+<td>GR</td>
+<td>2</td>
+</tr>
+<tr>
+<td>GS03-JP020</td>
+<td>Widespread Ruin</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS04-JP014</td>
+<td>Enemy Controller</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS05-JP005</td>
+<td>Granmarg the Rock Monarch</td>
+<td>GR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>GS05-JP015</td>
+<td>Magical Dimension</td>
+<td>GR	</td>
+<td>2</td>
+</tr>
+<tr>
+<td>HC01-JP008</td>
+<td>Blue-Eyes Alternative White Dragon</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>HC01-JP044</td>
+<td>Firewall Dragon Darkfluid - Neo Tempest Terahertz</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>HC01-JP045</td>
+<td>Angel of Blue Tears</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>IGAS-JP013</td>
+<td>Ancient Warriors - Valiant Zhang De</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>IGAS-JP019</td>
+<td>Abominable Unchained Soul</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>INOV-JP026</td>
+<td>Poly-Chemicritter Dioxogre</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>JY-02</td>
+<td>Swordsman of Landstar</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>LIOV-JP009</td>
+<td>Roxrose Dragon</td>
+<td>R</td>
+<td>2</td>
+</tr>
+<tr>
+<td>LIOV-JP056</td>
+<td>Amazing Time Ticket</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>LIOV-JP060</td>
+<td>A.I. Meet You</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>LODT-JP032</td>
+<td>Batteryman Micro-Cell</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>LODT-JP033</td>
+<td>Goblin Recon Squad</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>LVP3-JP078</td>
+<td>Abyss Actor - Wild Hope</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>MVP1-JP043</td>
+<td>Cubic Rebirth</td>
+<td>KC + UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>P4-02</td>
+<td>Dark Magician</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PHNI-JP049</td>
+<td>Majespecter Draco - Ryu</td>
+<td>SCR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PHRA-JP005</td>
+<td>Raidraptor - Strangle Lanius</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>POTE-JP040</td>
+<td>Vendread Scavenger</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>POTE-JP044</td>
+<td>Gem-Knight Lady Rose Diamond</td>
+<td>SR</td>
+<td>2</td>
+</tr>
+<tr>
+<td>PP14-JP004</td>
+<td>Ma'at</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>PTDN-JP043</td>
+<td>Elemental HERO Storm Neos</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RC03-JP036</td>
+<td>The Melody of Awakening Dragon</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RC04-JP042</td>
+<td>Time Thief Redoer</td>
+<td>QCSR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RC04-JP054</td>
+<td>Fossil Dig</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RGBT-JP004</td>
+<td>Dark Verger</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>RGBT-JP048</td>
+<td>Magic Planter</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SAST-JP009</td>
+<td>T.G. Screw Serpent</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SAST-JP021</td>
+<td>Orcust Knightmare</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SD18-JP001</td>
+<td>Machina Fortress</td>
+<td>UR	</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SDMY-JP004</td>
+<td>Berserkion the Electromagna Warrior</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SHVI-JP059</td>
+<td>Mausoleum of White</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SLF1-JP033</td>
+<td>The Book of the Law</td>
+<td>SR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SLT1-JP028</td>
+<td>Sunvine Maiden</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SPRG-JP020</td>
+<td>XX-Saber Boggart Knight</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SPWR-JP039</td>
+<td>Super Quantal Mech Sword - Magnaslayer</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SR02-JP025</td>
+<td>Dragon Ravine</td>
+<td>P</td>
+<td>2</td>
+</tr>
+<tr>
+<td>SR03-JP036</td>
+<td>Fiendish Chain</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SR10-JP003</td>
+<td>Machina Irradiator</td>
+<td>P</td>
+<td>1</td>
+</tr>
+<tr>
+<td>ST16-JP008</td>
+<td>Odd-Eyes Pendulum Dragon</td>
+<td>P	</td>
+<td>1</td>
+</tr>
+<tr>
+<td>STBL-JP060</td>
+<td>Tokkosho of Ghost Destroying</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SUB1-JP024</td>
+<td>Rokket Tracer</td>
+<td>SCR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>SUB1-JP056</td>
+<td>Blackwing Full Armor Master</td>
+<td>SR</td>
+<td>2</td>
+</tr>
+<tr>
+<td>TAEV-JP063</td>
+<td>Mirror Gate</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>TDIL-JP001</td>
+<td>Performapal Bot-Eyes Lizard</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>TDIL-JP016</td>
+<td>Red Mirror</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>TDIL-JP033</td>
+<td>Scapeghost</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>TDIL-JP036</td>
+<td>Black Dragon Ninja</td>
+<td>R</td>
+<td>1</td>
+</tr>
+<tr>
+<td>VJMP-JP073</td>
+<td>Bahamut Shark</td>
+<td>UR</td>
+<td>1</td>
+</tr>
+<tr>
+<td>WJMP-JP026</td>
+<td>Duza the Meteor Cubic Vessel</td>
+<td>KC</td>
+<td>1</td>
+</tr>
